@@ -19,6 +19,12 @@
     <Filter Include="소스 파일\모의고사">
       <UniqueIdentifier>{4c2b7e38-c866-4169-8dac-610fdefbf2ba}</UniqueIdentifier>
     </Filter>
+    <Filter Include="소스 파일\몸풀기문제\Chapter 6">
+      <UniqueIdentifier>{5c4e5fe4-3668-4ea6-be4d-6be3fb6e2084}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="소스 파일\모의고사\Chapter 6">
+      <UniqueIdentifier>{6a688413-32a9-4aa8-9c83-1c6c8696de5c}</UniqueIdentifier>
+    </Filter>
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="배열 정렬하기.cpp">
@@ -41,6 +47,15 @@
     </ClCompile>
     <ClCompile Include="방문 길이.cpp">
       <Filter>소스 파일\모의고사</Filter>
+    </ClCompile>
+    <ClCompile Include="괄호 짝 맞추기.cpp">
+      <Filter>소스 파일\몸풀기문제\Chapter 6</Filter>
+    </ClCompile>
+    <ClCompile Include="10진수를 2진수로 변환하기.cpp">
+      <Filter>소스 파일\몸풀기문제\Chapter 6</Filter>
+    </ClCompile>
+    <ClCompile Include="괄호 회전하기.cpp">
+      <Filter>소스 파일\모의고사\Chapter 6</Filter>
     </ClCompile>
   </ItemGroup>
 </Project>
