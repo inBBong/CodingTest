@@ -63,5 +63,11 @@
     <ClCompile Include="주식 가격.cpp">
       <Filter>소스 파일\모의고사\Chapter 6</Filter>
     </ClCompile>
+    <ClCompile Include="크레인 인형 뽑기 게임.cpp">
+      <Filter>소스 파일\모의고사\Chapter 6</Filter>
+    </ClCompile>
+    <ClCompile Include="표 편집(고난이도).cpp">
+      <Filter>소스 파일\모의고사\Chapter 6</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
