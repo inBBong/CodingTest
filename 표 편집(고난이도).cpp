@@ -2,6 +2,7 @@
 #include<stack>
 #include<string>
 #include<vector>
+#include<cstdlib>
 using namespace std;
 int IDXDown(vector<int>& v, int cmd, int idx)
 {
@@ -41,10 +42,10 @@ string solution(int n, int k, vector<string>cmd)
 		{
 		case'D':
 			//selectedIndx += cmd[i][2];			
-			selectedIndx=IDXDown(v, (int)cmd[i][2]-48, selectedIndx);//cmd[i][2]는 char 형이므로 -48을 해줘야함
+			selectedIndx = IDXDown(v, stoi(cmd[i].substr(2)), selectedIndx);//cmd[i][2]는 char 형이므로 -48을 해줘야함
 			break;
 		case'U':
-			selectedIndx = IDXUp(v, cmd[i][2] - 48, selectedIndx);
+			selectedIndx = IDXUp(v, stoi(cmd[i].substr(2)), selectedIndx);
 			break;
 		case'C':
 			deleted.push(v[selectedIndx]);
@@ -168,3 +169,7 @@ int main()
 // 의문점 : 책에서는 배열을 사용하면 배열의 삭제, 삽입이 일어나므로 연산비용이 늘어난다고 했는데, 난 행 삭제시 배열의 해당메모리를 삭제하고 
 //뒤 인덱스를 당기는 식으로 한게 아닌, 그냥 값에 -1을 넣어줬음. 복구때도 스택의 탑을 이용해서 그자리에 값을 다시 넣어주기만 함.
 // 그럼 연산비용이 안늘어나는거 아닌가?
+
+//피드백 : 내 코드는 데이터의 양이 많아지고 삭제가 많이 일어나면, 행 이동 시 -1이 아닌 데이터가 나올때까지
+// 벡터를 탐색해야하므로 탐색 비용이 많아질 수 있음
+//시간복잡도 : O(N)

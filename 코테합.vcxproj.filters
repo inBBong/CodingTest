@@ -25,6 +25,12 @@
     <Filter Include="소스 파일\모의고사\Chapter 6">
       <UniqueIdentifier>{6a688413-32a9-4aa8-9c83-1c6c8696de5c}</UniqueIdentifier>
     </Filter>
+    <Filter Include="소스 파일\몸풀기문제\Chapter 7">
+      <UniqueIdentifier>{26d4e713-e362-4ae0-b73c-01c7227fe324}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="소스 파일\모의고사\Chapter 7">
+      <UniqueIdentifier>{06e2699d-46e8-41ea-8dda-67a8cded17c6}</UniqueIdentifier>
+    </Filter>
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="배열 정렬하기.cpp">
@@ -68,6 +74,15 @@
     </ClCompile>
     <ClCompile Include="표 편집(고난이도).cpp">
       <Filter>소스 파일\모의고사\Chapter 6</Filter>
+    </ClCompile>
+    <ClCompile Include="요세푸스 문제.cpp">
+      <Filter>소스 파일\몸풀기문제\Chapter 7</Filter>
+    </ClCompile>
+    <ClCompile Include="기능 개발.cpp">
+      <Filter>소스 파일\모의고사\Chapter 7</Filter>
+    </ClCompile>
+    <ClCompile Include="카드 뭉치.cpp">
+      <Filter>소스 파일\모의고사\Chapter 7</Filter>
     </ClCompile>
   </ItemGroup>
 </Project>

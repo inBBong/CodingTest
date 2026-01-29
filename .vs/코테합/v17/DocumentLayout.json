@@ -3,8 +3,20 @@
   "WorkspaceRootPath": "C:\\\uCF54\uB529\uD14C\uC2A4\uD2B8 \uD569\uACA9\uD558\uAE30\\CodingTest\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{0FB4D210-D859-4B3B-A534-50F4C7CDB6DD}|\uCF54\uD14C\uD569.vcxproj|C:\\\uCF54\uB529\uD14C\uC2A4\uD2B8 \uD569\uACA9\uD558\uAE30\\CodingTest\\\uCE74\uB4DC \uBB49\uCE58.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{0FB4D210-D859-4B3B-A534-50F4C7CDB6DD}|\uCF54\uD14C\uD569.vcxproj|solutionrelative:\uCE74\uB4DC \uBB49\uCE58.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0FB4D210-D859-4B3B-A534-50F4C7CDB6DD}|\uCF54\uD14C\uD569.vcxproj|C:\\\uCF54\uB529\uD14C\uC2A4\uD2B8 \uD569\uACA9\uD558\uAE30\\CodingTest\\\uAE30\uB2A5 \uAC1C\uBC1C.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{0FB4D210-D859-4B3B-A534-50F4C7CDB6DD}|\uCF54\uD14C\uD569.vcxproj|solutionrelative:\uAE30\uB2A5 \uAC1C\uBC1C.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{0FB4D210-D859-4B3B-A534-50F4C7CDB6DD}|\uCF54\uD14C\uD569.vcxproj|C:\\\uCF54\uB529\uD14C\uC2A4\uD2B8 \uD569\uACA9\uD558\uAE30\\CodingTest\\\uD45C \uD3B8\uC9D1(\uACE0\uB09C\uC774\uB3C4).cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{0FB4D210-D859-4B3B-A534-50F4C7CDB6DD}|\uCF54\uD14C\uD569.vcxproj|solutionrelative:\uD45C \uD3B8\uC9D1(\uACE0\uB09C\uC774\uB3C4).cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0FB4D210-D859-4B3B-A534-50F4C7CDB6DD}|\uCF54\uD14C\uD569.vcxproj|C:\\\uCF54\uB529\uD14C\uC2A4\uD2B8 \uD569\uACA9\uD558\uAE30\\CodingTest\\\uC694\uC138\uD478\uC2A4 \uBB38\uC81C.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{0FB4D210-D859-4B3B-A534-50F4C7CDB6DD}|\uCF54\uD14C\uD569.vcxproj|solutionrelative:\uC694\uC138\uD478\uC2A4 \uBB38\uC81C.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{0FB4D210-D859-4B3B-A534-50F4C7CDB6DD}|\uCF54\uD14C\uD569.vcxproj|C:\\\uCF54\uB529\uD14C\uC2A4\uD2B8 \uD569\uACA9\uD558\uAE30\\CodingTest\\\uD06C\uB808\uC778 \uC778\uD615 \uBF51\uAE30 \uAC8C\uC784.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
@@ -47,19 +59,58 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "\uCE74\uB4DC \uBB49\uCE58.cpp",
+              "DocumentMoniker": "C:\\\uCF54\uB529\uD14C\uC2A4\uD2B8 \uD569\uACA9\uD558\uAE30\\CodingTest\\\uCE74\uB4DC \uBB49\uCE58.cpp",
+              "RelativeDocumentMoniker": "\uCE74\uB4DC \uBB49\uCE58.cpp",
+              "ToolTip": "C:\\\uCF54\uB529\uD14C\uC2A4\uD2B8 \uD569\uACA9\uD558\uAE30\\CodingTest\\\uCE74\uB4DC \uBB49\uCE58.cpp",
+              "RelativeToolTip": "\uCE74\uB4DC \uBB49\uCE58.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2026-01-29T14:42:40.022Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "\uAE30\uB2A5 \uAC1C\uBC1C.cpp",
+              "DocumentMoniker": "C:\\\uCF54\uB529\uD14C\uC2A4\uD2B8 \uD569\uACA9\uD558\uAE30\\CodingTest\\\uAE30\uB2A5 \uAC1C\uBC1C.cpp",
+              "RelativeDocumentMoniker": "\uAE30\uB2A5 \uAC1C\uBC1C.cpp",
+              "ToolTip": "C:\\\uCF54\uB529\uD14C\uC2A4\uD2B8 \uD569\uACA9\uD558\uAE30\\CodingTest\\\uAE30\uB2A5 \uAC1C\uBC1C.cpp",
+              "RelativeToolTip": "\uAE30\uB2A5 \uAC1C\uBC1C.cpp",
+              "ViewState": "AgIAAGQAAAAAAAAAAAAAAHMAAAA8AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2026-01-29T12:26:34.547Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "\uC694\uC138\uD478\uC2A4 \uBB38\uC81C.cpp",
+              "DocumentMoniker": "C:\\\uCF54\uB529\uD14C\uC2A4\uD2B8 \uD569\uACA9\uD558\uAE30\\CodingTest\\\uC694\uC138\uD478\uC2A4 \uBB38\uC81C.cpp",
+              "RelativeDocumentMoniker": "\uC694\uC138\uD478\uC2A4 \uBB38\uC81C.cpp",
+              "ToolTip": "C:\\\uCF54\uB529\uD14C\uC2A4\uD2B8 \uD569\uACA9\uD558\uAE30\\CodingTest\\\uC694\uC138\uD478\uC2A4 \uBB38\uC81C.cpp",
+              "RelativeToolTip": "\uC694\uC138\uD478\uC2A4 \uBB38\uC81C.cpp",
+              "ViewState": "AgIAABYAAAAAAAAAAAAAAB0AAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2026-01-29T12:00:53.455Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
               "Title": "\uD45C \uD3B8\uC9D1(\uACE0\uB09C\uC774\uB3C4).cpp",
               "DocumentMoniker": "C:\\\uCF54\uB529\uD14C\uC2A4\uD2B8 \uD569\uACA9\uD558\uAE30\\CodingTest\\\uD45C \uD3B8\uC9D1(\uACE0\uB09C\uC774\uB3C4).cpp",
               "RelativeDocumentMoniker": "\uD45C \uD3B8\uC9D1(\uACE0\uB09C\uC774\uB3C4).cpp",
               "ToolTip": "C:\\\uCF54\uB529\uD14C\uC2A4\uD2B8 \uD569\uACA9\uD558\uAE30\\CodingTest\\\uD45C \uD3B8\uC9D1(\uACE0\uB09C\uC774\uB3C4).cpp",
               "RelativeToolTip": "\uD45C \uD3B8\uC9D1(\uACE0\uB09C\uC774\uB3C4).cpp",
-              "ViewState": "AgIAAJoAAAAAAAAAAAAAAKkAAAAXAAAAAAAAAA==",
+              "ViewState": "AgIAACQAAAAAAAAAAAA0wC4AAAAKAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
               "WhenOpened": "2026-01-28T15:19:12.322Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 4,
               "Title": "\uD06C\uB808\uC778 \uC778\uD615 \uBF51\uAE30 \uAC8C\uC784.cpp",
               "DocumentMoniker": "C:\\\uCF54\uB529\uD14C\uC2A4\uD2B8 \uD569\uACA9\uD558\uAE30\\CodingTest\\\uD06C\uB808\uC778 \uC778\uD615 \uBF51\uAE30 \uAC8C\uC784.cpp",
               "RelativeDocumentMoniker": "\uD06C\uB808\uC778 \uC778\uD615 \uBF51\uAE30 \uAC8C\uC784.cpp",
@@ -71,7 +122,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 5,
               "Title": "\uC8FC\uC2DD \uAC00\uACA9.cpp",
               "DocumentMoniker": "C:\\\uCF54\uB529\uD14C\uC2A4\uD2B8 \uD569\uACA9\uD558\uAE30\\CodingTest\\\uC8FC\uC2DD \uAC00\uACA9.cpp",
               "RelativeDocumentMoniker": "\uC8FC\uC2DD \uAC00\uACA9.cpp",
@@ -83,7 +134,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 6,
               "Title": "\uC9DD\uC9C0\uC5B4\u3000\uC81C\uAC70\uD558\uAE30.cpp",
               "DocumentMoniker": "C:\\\uCF54\uB529\uD14C\uC2A4\uD2B8 \uD569\uACA9\uD558\uAE30\\CodingTest\\\uC9DD\uC9C0\uC5B4\u3000\uC81C\uAC70\uD558\uAE30.cpp",
               "RelativeDocumentMoniker": "\uC9DD\uC9C0\uC5B4\u3000\uC81C\uAC70\uD558\uAE30.cpp",
@@ -95,7 +146,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 7,
               "Title": "\uAD04\uD638 \uD68C\uC804\uD558\uAE30.cpp",
               "DocumentMoniker": "C:\\\uCF54\uB529\uD14C\uC2A4\uD2B8 \uD569\uACA9\uD558\uAE30\\CodingTest\\\uAD04\uD638 \uD68C\uC804\uD558\uAE30.cpp",
               "RelativeDocumentMoniker": "\uAD04\uD638 \uD68C\uC804\uD558\uAE30.cpp",
@@ -107,7 +158,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 8,
               "Title": "\uAD04\uD638 \uC9DD \uB9DE\uCD94\uAE30.cpp",
               "DocumentMoniker": "C:\\\uCF54\uB529\uD14C\uC2A4\uD2B8 \uD569\uACA9\uD558\uAE30\\CodingTest\\\uAD04\uD638 \uC9DD \uB9DE\uCD94\uAE30.cpp",
               "RelativeDocumentMoniker": "\uAD04\uD638 \uC9DD \uB9DE\uCD94\uAE30.cpp",
@@ -119,7 +170,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 9,
               "Title": "10\uC9C4\uC218\uB97C 2\uC9C4\uC218\uB85C \uBCC0\uD658\uD558\uAE30.cpp",
               "DocumentMoniker": "C:\\\uCF54\uB529\uD14C\uC2A4\uD2B8 \uD569\uACA9\uD558\uAE30\\CodingTest\\10\uC9C4\uC218\uB97C 2\uC9C4\uC218\uB85C \uBCC0\uD658\uD558\uAE30.cpp",
               "RelativeDocumentMoniker": "10\uC9C4\uC218\uB97C 2\uC9C4\uC218\uB85C \uBCC0\uD658\uD558\uAE30.cpp",
