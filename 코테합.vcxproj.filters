@@ -31,29 +31,20 @@
     <Filter Include="소스 파일\모의고사\Chapter 7">
       <UniqueIdentifier>{06e2699d-46e8-41ea-8dda-67a8cded17c6}</UniqueIdentifier>
     </Filter>
+    <Filter Include="소스 파일\모의고사\Chapter 5">
+      <UniqueIdentifier>{aa1c93f8-a8cf-4d25-9d99-352441b6c0a1}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="소스 파일\몸풀기문제\Chapter 5">
+      <UniqueIdentifier>{2dd4f148-4f53-444e-8751-348141f41315}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="소스 파일\몸풀기문제\Chapter 8">
+      <UniqueIdentifier>{56c6e1ee-34dc-42f5-94f5-9a50f11d7059}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="소스 파일\모의고사\Chapter 8">
+      <UniqueIdentifier>{d81b3962-5997-4168-8da3-c411060f521e}</UniqueIdentifier>
+    </Filter>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="배열 정렬하기.cpp">
-      <Filter>소스 파일\몸풀기문제</Filter>
-    </ClCompile>
-    <ClCompile Include="배열 제어하기.cpp">
-      <Filter>소스 파일\몸풀기문제</Filter>
-    </ClCompile>
-    <ClCompile Include="두 수를 뽑아서 더하기.cpp">
-      <Filter>소스 파일\모의고사</Filter>
-    </ClCompile>
-    <ClCompile Include="모의고사.cpp">
-      <Filter>소스 파일\모의고사</Filter>
-    </ClCompile>
-    <ClCompile Include="행렬의 곱셈.cpp">
-      <Filter>소스 파일\모의고사</Filter>
-    </ClCompile>
-    <ClCompile Include="실패율.cpp">
-      <Filter>소스 파일\모의고사</Filter>
-    </ClCompile>
-    <ClCompile Include="방문 길이.cpp">
-      <Filter>소스 파일\모의고사</Filter>
-    </ClCompile>
     <ClCompile Include="괄호 짝 맞추기.cpp">
       <Filter>소스 파일\몸풀기문제\Chapter 6</Filter>
     </ClCompile>
@@ -83,6 +74,33 @@
     </ClCompile>
     <ClCompile Include="카드 뭉치.cpp">
       <Filter>소스 파일\모의고사\Chapter 7</Filter>
+    </ClCompile>
+    <ClCompile Include="두 수를 뽑아서 더하기.cpp">
+      <Filter>소스 파일\모의고사\Chapter 5</Filter>
+    </ClCompile>
+    <ClCompile Include="모의고사.cpp">
+      <Filter>소스 파일\모의고사\Chapter 5</Filter>
+    </ClCompile>
+    <ClCompile Include="방문 길이.cpp">
+      <Filter>소스 파일\모의고사\Chapter 5</Filter>
+    </ClCompile>
+    <ClCompile Include="실패율.cpp">
+      <Filter>소스 파일\모의고사\Chapter 5</Filter>
+    </ClCompile>
+    <ClCompile Include="행렬의 곱셈.cpp">
+      <Filter>소스 파일\모의고사\Chapter 5</Filter>
+    </ClCompile>
+    <ClCompile Include="배열 정렬하기.cpp">
+      <Filter>소스 파일\몸풀기문제\Chapter 5</Filter>
+    </ClCompile>
+    <ClCompile Include="배열 제어하기.cpp">
+      <Filter>소스 파일\몸풀기문제\Chapter 5</Filter>
+    </ClCompile>
+    <ClCompile Include="두개의 수로 특정 값 만들기.cpp">
+      <Filter>소스 파일\몸풀기문제\Chapter 8</Filter>
+    </ClCompile>
+    <ClCompile Include="문자열 해싱을 이용한 검색 함수 만들기.cpp">
+      <Filter>소스 파일\몸풀기문제\Chapter 8</Filter>
     </ClCompile>
   </ItemGroup>
 </Project>
