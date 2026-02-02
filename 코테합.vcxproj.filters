@@ -105,5 +105,17 @@
     <ClCompile Include="완주하지 못한 선수.cpp">
       <Filter>소스 파일\모의고사\Chapter 8</Filter>
     </ClCompile>
+    <ClCompile Include="영어 끝말잇기.cpp">
+      <Filter>소스 파일\모의고사\Chapter 8</Filter>
+    </ClCompile>
+    <ClCompile Include="전화번호 목록.cpp">
+      <Filter>소스 파일\모의고사\Chapter 8</Filter>
+    </ClCompile>
+    <ClCompile Include="할인 행사.cpp">
+      <Filter>소스 파일\모의고사\Chapter 8</Filter>
+    </ClCompile>
+    <ClCompile Include="오픈 채팅방.cpp">
+      <Filter>소스 파일\모의고사\Chapter 8</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
