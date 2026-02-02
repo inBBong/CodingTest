@@ -3,12 +3,11 @@
   "WorkspaceRootPath": "C:\\Users\\ihhan\\source\\repos\\\uCF54\uD14C\uD569\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{0FB4D210-D859-4B3B-A534-50F4C7CDB6DD}|\uCF54\uD14C\uD569.vcxproj|C:\\Users\\ihhan\\source\\repos\\\uCF54\uD14C\uD569\\\uBB38\uC790\uC5F4 \uD574\uC2F1\uC744 \uC774\uC6A9\uD55C \uAC80\uC0C9 \uD568\uC218 \uB9CC\uB4E4\uAE30.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{0FB4D210-D859-4B3B-A534-50F4C7CDB6DD}|\uCF54\uD14C\uD569.vcxproj|solutionrelative:\uBB38\uC790\uC5F4 \uD574\uC2F1\uC744 \uC774\uC6A9\uD55C \uAC80\uC0C9 \uD568\uC218 \uB9CC\uB4E4\uAE30.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+      "AbsoluteMoniker": "D:0:0:{0FB4D210-D859-4B3B-A534-50F4C7CDB6DD}|\uCF54\uD14C\uD569.vcxproj|C:\\Users\\ihhan\\source\\repos\\\uCF54\uD14C\uD569\\\uC644\uC8FC\uD558\uC9C0 \uBABB\uD55C \uC120\uC218.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{0FB4D210-D859-4B3B-A534-50F4C7CDB6DD}|\uCF54\uD14C\uD569.vcxproj|solutionrelative:\uC644\uC8FC\uD558\uC9C0 \uBABB\uD55C \uC120\uC218.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{0FB4D210-D859-4B3B-A534-50F4C7CDB6DD}|\uCF54\uD14C\uD569.vcxproj|C:\\Users\\ihhan\\source\\repos\\\uCF54\uD14C\uD569\\\uB450\uAC1C\uC758 \uC218\uB85C \uD2B9\uC815 \uAC12 \uB9CC\uB4E4\uAE30.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{0FB4D210-D859-4B3B-A534-50F4C7CDB6DD}|\uCF54\uD14C\uD569.vcxproj|solutionrelative:\uB450\uAC1C\uC758 \uC218\uB85C \uD2B9\uC815 \uAC12 \uB9CC\uB4E4\uAE30.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.44.35207\\include\\xstring||{3B902123-F8A7-4915-9F01-361F908088D0}|"
     }
   ],
   "DocumentGroupContainers": [
@@ -18,7 +17,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 2,
           "Children": [
             {
               "$type": "Bookmark",
@@ -26,28 +25,28 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "\uBB38\uC790\uC5F4 \uD574\uC2F1\uC744 \uC774\uC6A9\uD55C \uAC80\uC0C9 \uD568\uC218 \uB9CC\uB4E4\uAE30.cpp",
-              "DocumentMoniker": "C:\\Users\\ihhan\\source\\repos\\\uCF54\uD14C\uD569\\\uBB38\uC790\uC5F4 \uD574\uC2F1\uC744 \uC774\uC6A9\uD55C \uAC80\uC0C9 \uD568\uC218 \uB9CC\uB4E4\uAE30.cpp",
-              "RelativeDocumentMoniker": "\uBB38\uC790\uC5F4 \uD574\uC2F1\uC744 \uC774\uC6A9\uD55C \uAC80\uC0C9 \uD568\uC218 \uB9CC\uB4E4\uAE30.cpp",
-              "ToolTip": "C:\\Users\\ihhan\\source\\repos\\\uCF54\uD14C\uD569\\\uBB38\uC790\uC5F4 \uD574\uC2F1\uC744 \uC774\uC6A9\uD55C \uAC80\uC0C9 \uD568\uC218 \uB9CC\uB4E4\uAE30.cpp",
-              "RelativeToolTip": "\uBB38\uC790\uC5F4 \uD574\uC2F1\uC744 \uC774\uC6A9\uD55C \uAC80\uC0C9 \uD568\uC218 \uB9CC\uB4E4\uAE30.cpp",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAkAAAABAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2026-01-30T14:02:30.452Z",
+              "DocumentIndex": 1,
+              "Title": "xstring",
+              "DocumentMoniker": "C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.44.35207\\include\\xstring",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.44.35207\\include\\xstring",
+              "ToolTip": "C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.44.35207\\include\\xstring",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.44.35207\\include\\xstring",
+              "ViewState": "AgIAADoJAAAAAAAAAIA5wEUJAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2026-02-02T04:09:27.087Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "\uB450\uAC1C\uC758 \uC218\uB85C \uD2B9\uC815 \uAC12 \uB9CC\uB4E4\uAE30.cpp",
-              "DocumentMoniker": "C:\\Users\\ihhan\\source\\repos\\\uCF54\uD14C\uD569\\\uB450\uAC1C\uC758 \uC218\uB85C \uD2B9\uC815 \uAC12 \uB9CC\uB4E4\uAE30.cpp",
-              "RelativeDocumentMoniker": "\uB450\uAC1C\uC758 \uC218\uB85C \uD2B9\uC815 \uAC12 \uB9CC\uB4E4\uAE30.cpp",
-              "ToolTip": "C:\\Users\\ihhan\\source\\repos\\\uCF54\uD14C\uD569\\\uB450\uAC1C\uC758 \uC218\uB85C \uD2B9\uC815 \uAC12 \uB9CC\uB4E4\uAE30.cpp",
-              "RelativeToolTip": "\uB450\uAC1C\uC758 \uC218\uB85C \uD2B9\uC815 \uAC12 \uB9CC\uB4E4\uAE30.cpp",
-              "ViewState": "AgIAACsAAAAAAAAAAAAAADcAAAACAAAAAAAAAA==",
+              "DocumentIndex": 0,
+              "Title": "\uC644\uC8FC\uD558\uC9C0 \uBABB\uD55C \uC120\uC218.cpp",
+              "DocumentMoniker": "C:\\Users\\ihhan\\source\\repos\\\uCF54\uD14C\uD569\\\uC644\uC8FC\uD558\uC9C0 \uBABB\uD55C \uC120\uC218.cpp",
+              "RelativeDocumentMoniker": "\uC644\uC8FC\uD558\uC9C0 \uBABB\uD55C \uC120\uC218.cpp",
+              "ToolTip": "C:\\Users\\ihhan\\source\\repos\\\uCF54\uD14C\uD569\\\uC644\uC8FC\uD558\uC9C0 \uBABB\uD55C \uC120\uC218.cpp",
+              "RelativeToolTip": "\uC644\uC8FC\uD558\uC9C0 \uBABB\uD55C \uC120\uC218.cpp",
+              "ViewState": "AgIAAHkAAAAAAAAAAAAAAIIAAAARAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2026-01-30T04:36:48.407Z",
+              "WhenOpened": "2026-02-02T03:51:22.076Z",
               "EditorCaption": ""
             }
           ]
