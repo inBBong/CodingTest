@@ -3,6 +3,14 @@
   "WorkspaceRootPath": "C:\\\uCF54\uB529\uD14C\uC2A4\uD2B8 \uD569\uACA9\uD558\uAE30\\CodingTest\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{0FB4D210-D859-4B3B-A534-50F4C7CDB6DD}|\uCF54\uD14C\uD569.vcxproj|C:\\\uCF54\uB529\uD14C\uC2A4\uD2B8 \uD569\uACA9\uD558\uAE30\\CodingTest\\\uC2E0\uACE0 \uACB0\uACFC \uBC1B\uAE30.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{0FB4D210-D859-4B3B-A534-50F4C7CDB6DD}|\uCF54\uD14C\uD569.vcxproj|solutionrelative:\uC2E0\uACE0 \uACB0\uACFC \uBC1B\uAE30.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0FB4D210-D859-4B3B-A534-50F4C7CDB6DD}|\uCF54\uD14C\uD569.vcxproj|C:\\\uCF54\uB529\uD14C\uC2A4\uD2B8 \uD569\uACA9\uD558\uAE30\\CodingTest\\\uBCA0\uC2A4\uD2B8 \uC568\uBC94.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{0FB4D210-D859-4B3B-A534-50F4C7CDB6DD}|\uCF54\uD14C\uD569.vcxproj|solutionrelative:\uBCA0\uC2A4\uD2B8 \uC568\uBC94.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{0FB4D210-D859-4B3B-A534-50F4C7CDB6DD}|\uCF54\uD14C\uD569.vcxproj|C:\\\uCF54\uB529\uD14C\uC2A4\uD2B8 \uD569\uACA9\uD558\uAE30\\CodingTest\\\uC624\uD508 \uCC44\uD305\uBC29.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{0FB4D210-D859-4B3B-A534-50F4C7CDB6DD}|\uCF54\uD14C\uD569.vcxproj|solutionrelative:\uC624\uD508 \uCC44\uD305\uBC29.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
@@ -42,19 +50,45 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "\uC2E0\uACE0 \uACB0\uACFC \uBC1B\uAE30.cpp",
+              "DocumentMoniker": "C:\\\uCF54\uB529\uD14C\uC2A4\uD2B8 \uD569\uACA9\uD558\uAE30\\CodingTest\\\uC2E0\uACE0 \uACB0\uACFC \uBC1B\uAE30.cpp",
+              "RelativeDocumentMoniker": "\uC2E0\uACE0 \uACB0\uACFC \uBC1B\uAE30.cpp",
+              "ToolTip": "C:\\\uCF54\uB529\uD14C\uC2A4\uD2B8 \uD569\uACA9\uD558\uAE30\\CodingTest\\\uC2E0\uACE0 \uACB0\uACFC \uBC1B\uAE30.cpp*",
+              "RelativeToolTip": "\uC2E0\uACE0 \uACB0\uACFC \uBC1B\uAE30.cpp*",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAYwBoAAAACAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2026-02-03T09:18:37.166Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "\uBCA0\uC2A4\uD2B8 \uC568\uBC94.cpp",
+              "DocumentMoniker": "C:\\\uCF54\uB529\uD14C\uC2A4\uD2B8 \uD569\uACA9\uD558\uAE30\\CodingTest\\\uBCA0\uC2A4\uD2B8 \uC568\uBC94.cpp",
+              "RelativeDocumentMoniker": "\uBCA0\uC2A4\uD2B8 \uC568\uBC94.cpp",
+              "ToolTip": "C:\\\uCF54\uB529\uD14C\uC2A4\uD2B8 \uD569\uACA9\uD558\uAE30\\CodingTest\\\uBCA0\uC2A4\uD2B8 \uC568\uBC94.cpp",
+              "RelativeToolTip": "\uBCA0\uC2A4\uD2B8 \uC568\uBC94.cpp",
+              "ViewState": "AgIAAB8AAAAAAAAAAAAxwCYAAAATAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2026-02-03T08:05:43.3Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
               "Title": "\uC624\uD508 \uCC44\uD305\uBC29.cpp",
               "DocumentMoniker": "C:\\\uCF54\uB529\uD14C\uC2A4\uD2B8 \uD569\uACA9\uD558\uAE30\\CodingTest\\\uC624\uD508 \uCC44\uD305\uBC29.cpp",
               "RelativeDocumentMoniker": "\uC624\uD508 \uCC44\uD305\uBC29.cpp",
               "ToolTip": "C:\\\uCF54\uB529\uD14C\uC2A4\uD2B8 \uD569\uACA9\uD558\uAE30\\CodingTest\\\uC624\uD508 \uCC44\uD305\uBC29.cpp",
               "RelativeToolTip": "\uC624\uD508 \uCC44\uD305\uBC29.cpp",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAIEAAAAAAAAAAAA0wI0AAAAOAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
               "WhenOpened": "2026-02-02T15:45:28.179Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 3,
               "Title": "\uD560\uC778 \uD589\uC0AC.cpp",
               "DocumentMoniker": "C:\\\uCF54\uB529\uD14C\uC2A4\uD2B8 \uD569\uACA9\uD558\uAE30\\CodingTest\\\uD560\uC778 \uD589\uC0AC.cpp",
               "RelativeDocumentMoniker": "\uD560\uC778 \uD589\uC0AC.cpp",
@@ -62,12 +96,11 @@
               "RelativeToolTip": "\uD560\uC778 \uD589\uC0AC.cpp",
               "ViewState": "AgIAAFQAAAAAAAAAAAAAAF0AAAAkAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2026-02-02T14:58:27.548Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-02-02T14:58:27.548Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 4,
               "Title": "\uC804\uD654\uBC88\uD638 \uBAA9\uB85D.cpp",
               "DocumentMoniker": "C:\\\uCF54\uB529\uD14C\uC2A4\uD2B8 \uD569\uACA9\uD558\uAE30\\CodingTest\\\uC804\uD654\uBC88\uD638 \uBAA9\uB85D.cpp",
               "RelativeDocumentMoniker": "\uC804\uD654\uBC88\uD638 \uBAA9\uB85D.cpp",
@@ -75,12 +108,11 @@
               "RelativeToolTip": "\uC804\uD654\uBC88\uD638 \uBAA9\uB85D.cpp",
               "ViewState": "AgIAABEAAAAAAAAAAAAAABYAAAASAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2026-02-02T14:13:12.247Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-02-02T14:13:12.247Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 5,
               "Title": "\uC601\uC5B4 \uB05D\uB9D0\uC787\uAE30.cpp",
               "DocumentMoniker": "C:\\\uCF54\uB529\uD14C\uC2A4\uD2B8 \uD569\uACA9\uD558\uAE30\\CodingTest\\\uC601\uC5B4 \uB05D\uB9D0\uC787\uAE30.cpp",
               "RelativeDocumentMoniker": "\uC601\uC5B4 \uB05D\uB9D0\uC787\uAE30.cpp",
@@ -88,12 +120,11 @@
               "RelativeToolTip": "\uC601\uC5B4 \uB05D\uB9D0\uC787\uAE30.cpp",
               "ViewState": "AgIAAGYAAAAAAAAAAAAAAGwAAAANAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2026-02-02T13:28:05.089Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-02-02T13:28:05.089Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 7,
               "Title": "xstring",
               "DocumentMoniker": "C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.44.35207\\include\\xstring",
               "RelativeDocumentMoniker": "..\\..\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.44.35207\\include\\xstring",
@@ -105,7 +136,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 6,
               "Title": "\uC644\uC8FC\uD558\uC9C0 \uBABB\uD55C \uC120\uC218.cpp",
               "DocumentMoniker": "C:\\\uCF54\uB529\uD14C\uC2A4\uD2B8 \uD569\uACA9\uD558\uAE30\\CodingTest\\\uC644\uC8FC\uD558\uC9C0 \uBABB\uD55C \uC120\uC218.cpp",
               "RelativeDocumentMoniker": "\uC644\uC8FC\uD558\uC9C0 \uBABB\uD55C \uC120\uC218.cpp",
@@ -113,8 +144,7 @@
               "RelativeToolTip": "\uC644\uC8FC\uD558\uC9C0 \uBABB\uD55C \uC120\uC218.cpp",
               "ViewState": "AgIAAHQAAAAAAAAAAAAwwIIAAAARAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2026-02-02T03:51:22.076Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-02-02T03:51:22.076Z"
             }
           ]
         }
