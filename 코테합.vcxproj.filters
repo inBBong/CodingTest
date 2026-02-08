@@ -43,6 +43,12 @@
     <Filter Include="소스 파일\모의고사\Chapter 8">
       <UniqueIdentifier>{d81b3962-5997-4168-8da3-c411060f521e}</UniqueIdentifier>
     </Filter>
+    <Filter Include="소스 파일\몸풀기문제\Chapter 9">
+      <UniqueIdentifier>{cd54542c-516c-4451-bee1-e4276201c9f1}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="소스 파일\모의고사\Chapter 9">
+      <UniqueIdentifier>{c305602f-e4b2-4f3f-b386-c540224af364}</UniqueIdentifier>
+    </Filter>
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="괄호 짝 맞추기.cpp">
@@ -125,6 +131,18 @@
     </ClCompile>
     <ClCompile Include="메뉴 리뉴얼.cpp">
       <Filter>소스 파일\모의고사\Chapter 8</Filter>
+    </ClCompile>
+    <ClCompile Include="트리 순회.cpp">
+      <Filter>소스 파일\몸풀기문제\Chapter 9</Filter>
+    </ClCompile>
+    <ClCompile Include="이진 탐색 트리 구현.cpp">
+      <Filter>소스 파일\몸풀기문제\Chapter 9</Filter>
+    </ClCompile>
+    <ClCompile Include="예상 대진표.cpp">
+      <Filter>소스 파일\모의고사\Chapter 9</Filter>
+    </ClCompile>
+    <ClCompile Include="다단계 칫솔 판매.cpp">
+      <Filter>소스 파일\모의고사\Chapter 9</Filter>
     </ClCompile>
   </ItemGroup>
 </Project>
