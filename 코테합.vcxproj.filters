@@ -144,5 +144,8 @@
     <ClCompile Include="다단계 칫솔 판매.cpp">
       <Filter>소스 파일\모의고사\Chapter 9</Filter>
     </ClCompile>
+    <ClCompile Include="길 찾기 게임.cpp">
+      <Filter>소스 파일\모의고사\Chapter 9</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>

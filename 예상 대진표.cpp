@@ -1,15 +1,7 @@
 #include<iostream>
 
 using namespace std;
-class node
-{
-private:
-	int value;
-	node* parent;
-public:
-	node() :value(0), parent(nullptr){}
-	node(int key):value(key),parent(nullptr){}
-};
+
 int solution(int n, int a, int b)
 {
 	int cnt(1);
