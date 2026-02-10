@@ -126,6 +126,7 @@
     <ClCompile Include="10진수를 2진수로 변환하기.cpp">
       <ExcludedFromBuild Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">true</ExcludedFromBuild>
     </ClCompile>
+    <ClCompile Include="간단한 유니온-파인드 알고리즘 구현하기.cpp" />
     <ClCompile Include="괄호 짝 맞추기.cpp">
       <ExcludedFromBuild Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">true</ExcludedFromBuild>
     </ClCompile>

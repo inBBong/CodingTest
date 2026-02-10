@@ -49,6 +49,12 @@
     <Filter Include="소스 파일\모의고사\Chapter 9">
       <UniqueIdentifier>{c305602f-e4b2-4f3f-b386-c540224af364}</UniqueIdentifier>
     </Filter>
+    <Filter Include="소스 파일\몸풀기문제\Chapter 10">
+      <UniqueIdentifier>{7fb90b88-85c1-4ee8-a760-cc5c58e23ecf}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="소스 파일\모의고사\Chapter 10">
+      <UniqueIdentifier>{a51f01b8-c3c7-419e-a282-e4b5ffb607c2}</UniqueIdentifier>
+    </Filter>
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="괄호 짝 맞추기.cpp">
@@ -146,6 +152,9 @@
     </ClCompile>
     <ClCompile Include="길 찾기 게임.cpp">
       <Filter>소스 파일\모의고사\Chapter 9</Filter>
+    </ClCompile>
+    <ClCompile Include="간단한 유니온-파인드 알고리즘 구현하기.cpp">
+      <Filter>소스 파일\몸풀기문제\Chapter 10</Filter>
     </ClCompile>
   </ItemGroup>
 </Project>
