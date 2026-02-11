@@ -156,5 +156,11 @@
     <ClCompile Include="간단한 유니온-파인드 알고리즘 구현하기.cpp">
       <Filter>소스 파일\몸풀기문제\Chapter 10</Filter>
     </ClCompile>
+    <ClCompile Include="폰켓몬.cpp">
+      <Filter>소스 파일\모의고사\Chapter 10</Filter>
+    </ClCompile>
+    <ClCompile Include="섬 연결하기.cpp">
+      <Filter>소스 파일\모의고사\Chapter 10</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
