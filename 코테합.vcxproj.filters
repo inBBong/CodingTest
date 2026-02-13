@@ -55,6 +55,12 @@
     <Filter Include="소스 파일\모의고사\Chapter 10">
       <UniqueIdentifier>{a51f01b8-c3c7-419e-a282-e4b5ffb607c2}</UniqueIdentifier>
     </Filter>
+    <Filter Include="소스 파일\몸풀기문제\Chapter 11">
+      <UniqueIdentifier>{d4ad7856-29f3-4db2-a84c-95045bce467c}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="소스 파일\모의고사\Chapter 11">
+      <UniqueIdentifier>{a313bb47-ddac-498b-bcb6-f2561ef06f0b}</UniqueIdentifier>
+    </Filter>
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="괄호 짝 맞추기.cpp">
@@ -161,6 +167,15 @@
     </ClCompile>
     <ClCompile Include="섬 연결하기.cpp">
       <Filter>소스 파일\모의고사\Chapter 10</Filter>
+    </ClCompile>
+    <ClCompile Include="깊이 우선 탐색 순회.cpp">
+      <Filter>소스 파일\몸풀기문제\Chapter 11</Filter>
+    </ClCompile>
+    <ClCompile Include="너비 우선 탐색 순회.cpp">
+      <Filter>소스 파일\몸풀기문제\Chapter 11</Filter>
+    </ClCompile>
+    <ClCompile Include="다익스트라 알고리즘.cpp">
+      <Filter>소스 파일\몸풀기문제\Chapter 11</Filter>
     </ClCompile>
   </ItemGroup>
 </Project>
