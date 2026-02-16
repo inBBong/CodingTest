@@ -177,5 +177,11 @@
     <ClCompile Include="다익스트라 알고리즘.cpp">
       <Filter>소스 파일\몸풀기문제\Chapter 11</Filter>
     </ClCompile>
+    <ClCompile Include="벨만-포드 알고리즘.cpp">
+      <Filter>소스 파일\몸풀기문제\Chapter 11</Filter>
+    </ClCompile>
+    <ClCompile Include="미로 탈출.cpp">
+      <Filter>소스 파일\모의고사\Chapter 11</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>

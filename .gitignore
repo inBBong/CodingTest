@@ -1,0 +1,8 @@
+.vs/
+ipch/
+*.ipch
+*.pdb
+*.obj
+*.ilk
+*.tlog
+*.log
