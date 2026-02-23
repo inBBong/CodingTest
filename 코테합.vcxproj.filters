@@ -183,5 +183,11 @@
     <ClCompile Include="미로 탈출.cpp">
       <Filter>소스 파일\모의고사\Chapter 11</Filter>
     </ClCompile>
+    <ClCompile Include="게임 맵 최단거리.cpp">
+      <Filter>소스 파일\모의고사\Chapter 11</Filter>
+    </ClCompile>
+    <ClCompile Include="네트워크.cpp">
+      <Filter>소스 파일\모의고사\Chapter 11</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
