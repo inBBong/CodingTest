@@ -195,5 +195,8 @@
     <ClCompile Include="배달.cpp">
       <Filter>소스 파일\모의고사\Chapter 11</Filter>
     </ClCompile>
+    <ClCompile Include="경주로 건설.cpp">
+      <Filter>소스 파일\모의고사\Chapter 11</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
