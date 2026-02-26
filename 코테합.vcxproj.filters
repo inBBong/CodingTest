@@ -61,6 +61,9 @@
     <Filter Include="소스 파일\모의고사\Chapter 11">
       <UniqueIdentifier>{a313bb47-ddac-498b-bcb6-f2561ef06f0b}</UniqueIdentifier>
     </Filter>
+    <Filter Include="소스 파일\몸풀기문제\Chapter 12">
+      <UniqueIdentifier>{60c4f6ed-945b-4eb0-827c-225edcb3a916}</UniqueIdentifier>
+    </Filter>
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="괄호 짝 맞추기.cpp">
@@ -200,6 +203,9 @@
     </ClCompile>
     <ClCompile Include="전력망을 둘로 나누기.cpp">
       <Filter>소스 파일\모의고사\Chapter 11</Filter>
+    </ClCompile>
+    <ClCompile Include="1부터 N까지 숫자 합이 10이 되는 조합 구하기.cpp">
+      <Filter>소스 파일\몸풀기문제\Chapter 12</Filter>
     </ClCompile>
   </ItemGroup>
 </Project>
