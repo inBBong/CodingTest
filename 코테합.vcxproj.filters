@@ -64,6 +64,9 @@
     <Filter Include="소스 파일\몸풀기문제\Chapter 12">
       <UniqueIdentifier>{60c4f6ed-945b-4eb0-827c-225edcb3a916}</UniqueIdentifier>
     </Filter>
+    <Filter Include="소스 파일\모의고사\Chapter 12">
+      <UniqueIdentifier>{71481c76-3545-4713-82a6-67ad5a753a57}</UniqueIdentifier>
+    </Filter>
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="괄호 짝 맞추기.cpp">
@@ -206,6 +209,12 @@
     </ClCompile>
     <ClCompile Include="1부터 N까지 숫자 합이 10이 되는 조합 구하기.cpp">
       <Filter>소스 파일\몸풀기문제\Chapter 12</Filter>
+    </ClCompile>
+    <ClCompile Include="스도쿠 퍼즐.cpp">
+      <Filter>소스 파일\몸풀기문제\Chapter 12</Filter>
+    </ClCompile>
+    <ClCompile Include="피로도.cpp">
+      <Filter>소스 파일\모의고사\Chapter 12</Filter>
     </ClCompile>
   </ItemGroup>
 </Project>
