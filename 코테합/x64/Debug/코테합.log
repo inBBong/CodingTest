@@ -1,4 +1,6 @@
-﻿  피로도.cpp
+﻿  N-퀸.cpp
+C:\코딩테스트 합격하기\CodingTest\N-퀸.cpp(24,25): warning C4267: '인수': 'size_t'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\코딩테스트 합격하기\CodingTest\N-퀸.cpp(27,23): warning C4267: '인수': 'size_t'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
   코테합.vcxproj -> C:\코딩테스트 합격하기\CodingTest\x64\Debug\코테합.exe
   'pwsh.exe'은(는) 내부 또는 외부 명령, 실행할 수 있는 프로그램, 또는
   배치 파일이 아닙니다.
