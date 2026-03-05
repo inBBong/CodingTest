@@ -222,5 +222,11 @@
     <ClCompile Include="양궁대회.cpp">
       <Filter>소스 파일\모의고사\Chapter 12</Filter>
     </ClCompile>
+    <ClCompile Include="외벽 점검.cpp">
+      <Filter>소스 파일\모의고사\Chapter 12</Filter>
+    </ClCompile>
+    <ClCompile Include="사라지는 발판.cpp">
+      <Filter>소스 파일\모의고사\Chapter 12</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
