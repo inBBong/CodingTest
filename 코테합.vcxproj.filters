@@ -73,6 +73,12 @@
     <Filter Include="소스 파일\모의고사\Chapter 13">
       <UniqueIdentifier>{88161a87-69a8-493f-960b-39e969357694}</UniqueIdentifier>
     </Filter>
+    <Filter Include="소스 파일\몸풀기문제\Chapter 14">
+      <UniqueIdentifier>{d2add361-1d2f-4d7c-99a7-e5beaf56c489}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="소스 파일\모의고사\Chapter 14">
+      <UniqueIdentifier>{b6a2fdd9-370f-48e1-8500-c236909c442f}</UniqueIdentifier>
+    </Filter>
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="괄호 짝 맞추기.cpp">
@@ -257,6 +263,21 @@
     </ClCompile>
     <ClCompile Include="지형 이동.cpp">
       <Filter>소스 파일\모의고사\Chapter 13</Filter>
+    </ClCompile>
+    <ClCompile Include="배열 회전하기.cpp">
+      <Filter>소스 파일\몸풀기문제\Chapter 14</Filter>
+    </ClCompile>
+    <ClCompile Include="두 행렬을 곱한 후 전치행렬 만들기.cpp">
+      <Filter>소스 파일\몸풀기문제\Chapter 14</Filter>
+    </ClCompile>
+    <ClCompile Include="달팽이 수열 만들기.cpp">
+      <Filter>소스 파일\몸풀기문제\Chapter 14</Filter>
+    </ClCompile>
+    <ClCompile Include="이진 변환.cpp">
+      <Filter>소스 파일\모의고사\Chapter 14</Filter>
+    </ClCompile>
+    <ClCompile Include="롤케이크 자르기.cpp">
+      <Filter>소스 파일\모의고사\Chapter 14</Filter>
     </ClCompile>
   </ItemGroup>
 </Project>

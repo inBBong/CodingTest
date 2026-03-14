@@ -173,5 +173,4 @@ int main()
 // operator< 함수의 리턴값이 heightDiff < p.heightDiff;면 더 작은 값을 아래로 보내는 최대힙,
 // operator< 함수의 리턴값이 heightDiff > p.heightDiff;면 더 큰 값을 아래로 보내는 최소힙 구조라는 것을 알게 됐다.
 // 
-// 시간복잡도 : O(N^2log(N^2))
-//
+// 시간복잡도 : O(N^2log(N^2))//
