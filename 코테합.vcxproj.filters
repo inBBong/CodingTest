@@ -279,5 +279,14 @@
     <ClCompile Include="롤케이크 자르기.cpp">
       <Filter>소스 파일\모의고사\Chapter 14</Filter>
     </ClCompile>
+    <ClCompile Include="카펫.cpp">
+      <Filter>소스 파일\모의고사\Chapter 14</Filter>
+    </ClCompile>
+    <ClCompile Include="점프와 순간이동.cpp">
+      <Filter>소스 파일\모의고사\Chapter 14</Filter>
+    </ClCompile>
+    <ClCompile Include="캐릭터의 좌표.cpp">
+      <Filter>소스 파일\모의고사\Chapter 14</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
