@@ -79,6 +79,9 @@
     <Filter Include="소스 파일\모의고사\Chapter 14">
       <UniqueIdentifier>{b6a2fdd9-370f-48e1-8500-c236909c442f}</UniqueIdentifier>
     </Filter>
+    <Filter Include="소스 파일\몸풀기문제\Chapter 15">
+      <UniqueIdentifier>{a2fcc53c-e6fd-4754-a31e-32da52556223}</UniqueIdentifier>
+    </Filter>
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="괄호 짝 맞추기.cpp">
@@ -287,6 +290,12 @@
     </ClCompile>
     <ClCompile Include="캐릭터의 좌표.cpp">
       <Filter>소스 파일\모의고사\Chapter 14</Filter>
+    </ClCompile>
+    <ClCompile Include="LCS 길이 계산하기.cpp">
+      <Filter>소스 파일\몸풀기문제\Chapter 15</Filter>
+    </ClCompile>
+    <ClCompile Include="LIS 길이 계산하기.cpp">
+      <Filter>소스 파일\몸풀기문제\Chapter 15</Filter>
     </ClCompile>
   </ItemGroup>
 </Project>
