@@ -82,6 +82,9 @@
     <Filter Include="소스 파일\몸풀기문제\Chapter 15">
       <UniqueIdentifier>{a2fcc53c-e6fd-4754-a31e-32da52556223}</UniqueIdentifier>
     </Filter>
+    <Filter Include="소스 파일\모의고사\Chapter 15">
+      <UniqueIdentifier>{b9022eec-968f-4c0e-902b-ab0a2cfe3317}</UniqueIdentifier>
+    </Filter>
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="괄호 짝 맞추기.cpp">
@@ -296,6 +299,15 @@
     </ClCompile>
     <ClCompile Include="LIS 길이 계산하기.cpp">
       <Filter>소스 파일\몸풀기문제\Chapter 15</Filter>
+    </ClCompile>
+    <ClCompile Include="조약돌 문제.cpp">
+      <Filter>소스 파일\몸풀기문제\Chapter 15</Filter>
+    </ClCompile>
+    <ClCompile Include="피보나치 수.cpp">
+      <Filter>소스 파일\모의고사\Chapter 15</Filter>
+    </ClCompile>
+    <ClCompile Include="2 x n 타일링.cpp">
+      <Filter>소스 파일\모의고사\Chapter 15</Filter>
     </ClCompile>
   </ItemGroup>
 </Project>
