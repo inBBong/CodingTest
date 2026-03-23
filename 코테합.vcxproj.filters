@@ -85,6 +85,12 @@
     <Filter Include="소스 파일\모의고사\Chapter 15">
       <UniqueIdentifier>{b9022eec-968f-4c0e-902b-ab0a2cfe3317}</UniqueIdentifier>
     </Filter>
+    <Filter Include="소스 파일\몸풀기문제\Chapter 16">
+      <UniqueIdentifier>{a8277f98-6cb7-447a-be15-025c04bfbd08}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="소스 파일\모의고사\Chapter 16">
+      <UniqueIdentifier>{22e1ee11-d37e-49c0-b244-3495aa9f3ee6}</UniqueIdentifier>
+    </Filter>
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="괄호 짝 맞추기.cpp">
@@ -323,6 +329,24 @@
     </ClCompile>
     <ClCompile Include="단어 퍼즐.cpp">
       <Filter>소스 파일\모의고사\Chapter 15</Filter>
+    </ClCompile>
+    <ClCompile Include="거스름돈 주기.cpp">
+      <Filter>소스 파일\몸풀기문제\Chapter 16</Filter>
+    </ClCompile>
+    <ClCompile Include="부분 배낭 문제.cpp">
+      <Filter>소스 파일\몸풀기문제\Chapter 16</Filter>
+    </ClCompile>
+    <ClCompile Include="예산.cpp">
+      <Filter>소스 파일\모의고사\Chapter 16</Filter>
+    </ClCompile>
+    <ClCompile Include="구명보트.cpp">
+      <Filter>소스 파일\모의고사\Chapter 16</Filter>
+    </ClCompile>
+    <ClCompile Include="귤 고르기.cpp">
+      <Filter>소스 파일\모의고사\Chapter 16</Filter>
+    </ClCompile>
+    <ClCompile Include="기지국 설치.cpp">
+      <Filter>소스 파일\모의고사\Chapter 16</Filter>
     </ClCompile>
   </ItemGroup>
 </Project>

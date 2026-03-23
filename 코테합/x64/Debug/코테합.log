@@ -1,11 +1,4 @@
-﻿  단어 퍼즐.cpp
-C:\코딩테스트 합격하기\CodingTest\단어 퍼즐.cpp(11,8): warning C4267: '초기화 중': 'size_t'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
-C:\코딩테스트 합격하기\CodingTest\단어 퍼즐.cpp(18,24): warning C4267: '인수': 'size_t'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
-C:\코딩테스트 합격하기\CodingTest\단어 퍼즐.cpp(28,20): warning C4244: 'return': '_Ty'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
-C:\코딩테스트 합격하기\CodingTest\단어 퍼즐.cpp(28,20): warning C4244:         with
-C:\코딩테스트 합격하기\CodingTest\단어 퍼즐.cpp(28,20): warning C4244:         [
-C:\코딩테스트 합격하기\CodingTest\단어 퍼즐.cpp(28,20): warning C4244:             _Ty=__int64
-C:\코딩테스트 합격하기\CodingTest\단어 퍼즐.cpp(28,20): warning C4244:         ]
+﻿  기지국 설치.cpp
   코테합.vcxproj -> C:\코딩테스트 합격하기\CodingTest\x64\Debug\코테합.exe
   'pwsh.exe'은(는) 내부 또는 외부 명령, 실행할 수 있는 프로그램, 또는
   배치 파일이 아닙니다.
