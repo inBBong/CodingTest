@@ -91,6 +91,9 @@
     <Filter Include="소스 파일\모의고사\Chapter 16">
       <UniqueIdentifier>{22e1ee11-d37e-49c0-b244-3495aa9f3ee6}</UniqueIdentifier>
     </Filter>
+    <Filter Include="소스 파일\SSAFY 대비">
+      <UniqueIdentifier>{652c71ca-226b-48da-9142-60b9e26d7518}</UniqueIdentifier>
+    </Filter>
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="괄호 짝 맞추기.cpp">
@@ -347,6 +350,18 @@
     </ClCompile>
     <ClCompile Include="기지국 설치.cpp">
       <Filter>소스 파일\모의고사\Chapter 16</Filter>
+    </ClCompile>
+    <ClCompile Include="26389여행.cpp">
+      <Filter>소스 파일\SSAFY 대비</Filter>
+    </ClCompile>
+    <ClCompile Include="26792덧셈과 뺄셈.cpp">
+      <Filter>소스 파일\SSAFY 대비</Filter>
+    </ClCompile>
+    <ClCompile Include="1249보급로.cpp">
+      <Filter>소스 파일\SSAFY 대비</Filter>
+    </ClCompile>
+    <ClCompile Include="26502쉬운삼각형.cpp">
+      <Filter>소스 파일\SSAFY 대비</Filter>
     </ClCompile>
   </ItemGroup>
 </Project>
