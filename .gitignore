@@ -6,3 +6,14 @@ ipch/
 *.ilk
 *.tlog
 *.log
+# Visual Studio build output
+[Dd]ebug/
+[Rr]elease/
+x64/
+x86/
+*.exe
+*.idb
+*.enc
+*.recipe
+*.lastbuildstate
+*.vcxproj.user
