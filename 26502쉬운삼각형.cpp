@@ -31,8 +31,8 @@
 /////////////////////////////////////////////////////////////////////////////////////////////
 
 #include<iostream>
+#include<algorithm>
 #include<vector>
-#include<cmath>
 using namespace std;
 
 int main(int argc, char** argv)
@@ -53,51 +53,63 @@ int main(int argc, char** argv)
 	/*
 	   여러 개의 테스트 케이스가 주어지므로, 각각을 처리합니다.
 	*/
-	vector<int> answer;
 	for (test_case = 1; test_case <= T; ++test_case)
 	{
 
-		/////////////////////////////////////////////////////////////////////////////////////////////
-		/*
-			 이 부분에 여러분의 알고리즘 구현이 들어갑니다.
-		 */
-		 /////////////////////////////////////////////////////////////////////////////////////////////
-		int N;
-		int ans(0);
-		cin >> N;
-		vector<vector<int>>points(N, vector<int>(2));
-		for (int i = 0; i < points.size(); ++i)
+		vector<int>A;
+		vector<int>B;
+		int sizeA;
+		int sizeB;
+		cin >> sizeA >> sizeB;
+		for (int i = 0; i < sizeA; ++i)
 		{
-			cin >> points[i][0] >> points[i][1];
+			int a;
+			cin >> a;
+			A.push_back(a);
 		}
-		for (auto point : points)
+		for (int i = 0; i < sizeB; ++i)
 		{
-			int width(0);
-			int height(0);
-			int x = point[0];
-			int y = point[1];
-			for (int i = 0; i < points.size(); ++i)
+			int b;
+			cin >> b;
+			B.push_back(b);
+		}
+		sort(A.begin(), A.end());
+		sort(B.begin(), B.end());
+		if (sizeA == sizeB)
+		{
+			bool isSame=true;
+			for (int i = 0; i < sizeA; ++i)
 			{
-				if (points[i] == point)
-					continue;
-				if (points[i][0] == x && abs(points[i][1] - y) > height)
-				{
-					height = abs(points[i][1] - y);
-				}
-				if (points[i][1] == y && abs(points[i][0] - x) > width)
-				{
-					width = abs(points[i][0] - x);
-				}
+				if (A[i] != B[i])
+					isSame = false;
 			}
-			ans = max(ans, height * width);
+			if (isSame)
+				cout << "=" << endl;
+			else
+				cout << "?" << endl;
+
 		}
-		answer.push_back(ans);
-	}
-	for(int i=0;i<answer.size();++i)
-	{
-		cout << answer[i] << endl;
+		else
+		{
+			bool isIncluded = true;
+			int m = min(sizeA, sizeB);
+			for (int i = 0; i < m; ++i)
+			{
+				if (A[i] != B[i])
+					isIncluded = false;
+			}
+			if (isIncluded)
+			{
+				if(m==sizeA)
+				cout << "<" << endl;
+				else
+				cout << ">" << endl;
+			}
+			else
+				cout << "?" << endl;
+
+		}
+
 	}
 	return 0;//정상종료시 반드시 0을 리턴해야합니다.
 }
-
-// #1 2
